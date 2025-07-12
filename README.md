@@ -1,5 +1,4 @@
 # ForestOS
-![GitHub License](https://img.shields.io/github/license/ruzen42/harkpkg?style=for-the-badge)
 #
 
 How to test!?
